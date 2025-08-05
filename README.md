@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaAmritM/weather-forecaster/blob/main/Advanced_Weather_Predictor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaAmritM/weather-forecaster/blob/main/Advanced_City_Weather_Forecaster.ipynb)
 
 # Advanced Weather Predictor
 
